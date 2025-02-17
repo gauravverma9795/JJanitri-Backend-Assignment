@@ -28,5 +28,5 @@ This project is a simplified backend system for managing users, patients, and he
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/janitri-backend.git
+   git clone https://github.com/gauravverma9795/Janitri-Backend-Assignment
    cd janitri-backend
